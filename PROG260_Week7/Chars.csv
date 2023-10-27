@@ -1,0 +1,17 @@
+﻿Character,Type,Map_Location,Original_Character,Sword_Fighter,Magic_User
+Murray, Ghost,NULL,TRUE,FALSE,FALSE
+Locke Smith, Human,Melee Island,FALSE,FALSE,FALSE
+Herman Toothrot,Human,Terror Island,FALSE,FALSE,NULL
+Voodoo Lady, Melee Island,Melee Island,TRUE,FALSE,TRUE
+Otis, Inmate,Melee Island,TRUE,TRUE,FALSE
+Carla, Pirate,Melee Island,TRUE,TRUE,FALSE
+Captain Madison,Pirate,Melee Island,FALSE,TRUE,FALSE
+Judge Planke,NPC,Brrrmuda,FALSE,FALSE,FALSE
+Boybrush Threepwood,Human,NULL,FALSE,NULL,FALSE
+Guybrush Threepwood,Mighty Pirate,NULL,TRUE,FALSE,NULL
+Elain Marley,Politician,Scurvy Island,TRUE,TRUE,FALSE
+Captain LeChuck,Ghost Pirate,LeChucks ship,TRUE,TRUE,TRUE
+Putra,Ghost Cook,LeChucks ship,FALSE,FALSE,FALSE
+Iron Rose,Ghost Pirate,LeChucks ship,FALSE,TRUE,FALSE
+Ned,Human,NULL,TRUE,FALSE,FALSE
+Flambe,Fire Ghost,LeChucks ship,FALSE,FALSE,TRUE
